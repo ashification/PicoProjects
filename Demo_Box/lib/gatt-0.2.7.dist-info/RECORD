@@ -1,0 +1,8 @@
+gatt-0.2.7.dist-info/METADATA,,
+gatt/__init__.py,,
+gatt/errors.py,,
+gatt/gatt.py,,
+gatt/gatt_linux.py,,
+gatt/gatt_stubs.py,,
+gattctl.py,,
+gatt-0.2.7.dist-info/RECORD,,
