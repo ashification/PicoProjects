@@ -1,6 +1,6 @@
-wifi_ssid = "Joey Doesn't Share WiFi 3.0"
-wifi_password = 'Fr33L04d3r5.'
-mqtt_server = b'192.168.68.135'
-mqtt_username = b'alee'
-mqtt_password = b'admin'
-mqtt_port = 1883
+wifi_ssid = "insert wifi name here"
+wifi_password = 'insert wifi password here'
+mqtt_server = b'mqtt server ip here'
+mqtt_username = b'mqtt user name here'
+mqtt_password = b'mqtt password name here'
+mqtt_port = <mqtt port name here>
