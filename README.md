@@ -1,7 +1,17 @@
 # PicoProjects
 
 This repository serves as examples for code to be used in Raspberry Pi Pico projects.
-For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated
+## Raspberry Pi Pico
+The Raspberry Pi Pico is a micro controller produced by Raspberry Pi. <br/>
+You can read more specific details about the device  here: [RPI Pico Series Official Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) <br/>
+For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated<br/><br/>
+Below is the Pin Out Diagram for the model used<br/>
+![Pin Out](https://github.com/ashification/PicoProjects/blob/main/pico-2-pinout.jpg) <br/><br/>
+
+
+
+
+
 
 ## The mini projects are:
 - Example 1 - Blink an LED
