@@ -1,6 +1,7 @@
 #Code adapted from:
 # https://projects.raspberrypi.org/en/projects/get-started-pico-w/2 for wifi connectivity
 # https://forums.raspberrypi.com/viewtopic.php?t=340568 for webscraping
+# Micropython packages needed are urllib.request and html
 
 
 from urllib.urequest import urlopen
@@ -57,5 +58,6 @@ except Exception as e:
 
     
    
+
 
 
