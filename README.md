@@ -1,16 +1,41 @@
 # PicoProjects
 
 This repository serves as examples for code to be used in Raspberry Pi Pico projects.
+<br/>
+
+## The mini projects are:
+- Example 1 - Blink an LED 
+- Example 2 - Control an LED with a button
+- Example 3 - Using a potentiometer
+- Example 4 - Using a HC-SR04 Range finder 
+- Example 5 - DHT11 humidity and temperature measurement
+- Example 6 - Connecting to Wi-Fi and webscraping
+- Example 7 - Connecting to an MQTT Broker to send messages
+- Example 8 - Combines all previous examples into 1 program
+<br/>
+
+## The Major Project - The Demo Box
+The Demo box code is my personal development for testing out new features to add to the above examples list and demonstrating new features.
+<br/><br/>
+
 ## Hardware
 If you do not have access to any of the hardware please refer to the section below regarding the Wokwi simulator
 <br/>
+
+### Raspberry Pi Pico Microcontroller
+The Raspberry Pi Pico is a micro controller produced by Raspberry Pi. <br/>
+You can read more specific details about the device  here: [RPI Pico Series Official Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) <br/>
+For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated<br/><br/>
+Below is the Pin Out Diagram for the model used<br/>
+![Pin Out](https://github.com/ashification/PicoProjects/blob/main/pico-2-pinout.jpg) 
+<br/><br/>
 
 ### Equipment list
 There are a number of items you will need to complete these exercises.
 * 1x [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
     * Also referred to as protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
 * 1x Raspbery pi pico
-    * More details on this microcontroller below
+    * See above for details on the pico
 * 1x LED
     * [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) stands for Light Emitting Diode. These are small handy lights that always add a bit of pizaz to any electronics project. You will need 1 but can get creative with examples showing the use of up to 4 differnet colours
 * 1x 220Ω resistor
@@ -22,13 +47,11 @@ There are a number of items you will need to complete these exercises.
 * 1x DHT11
     * The DHT11 is a humidity and temperature sensor that is used commonnly in arduino projects
 * 1x Range Finder
-    * ihih
+    * The Range finder we are using is a HC-SR04 a super common bit of kit used for detecting distance or presence
 
 
- 
-* Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
+
 <br/>
-
 ![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
 <br/>
 
@@ -40,34 +63,12 @@ There are a number of items you will need to complete these exercises.
 
 <br/><br/>
 
-### Raspberry Pi Pico Microcontroller
-The Raspberry Pi Pico is a micro controller produced by Raspberry Pi. <br/>
-You can read more specific details about the device  here: [RPI Pico Series Official Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) <br/>
-For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated<br/><br/>
-Below is the Pin Out Diagram for the model used<br/>
-![Pin Out](https://github.com/ashification/PicoProjects/blob/main/pico-2-pinout.jpg) 
-<br/><br/>
-
-
 
 ## Wokwi Simulator 
 If you do not have access to a Pico, the components or have the ability to install and run the MicropythonIDE listed you can use Wokwi.com.
 Wokwi will allow us to simulate the hardware aspect of this course. Like with all projects remember to save your code regularly!!!
 There will be examples for Wokwi in each of the mini projects but to get started you can go to the link here [Base Pico Project ](https://wokwi.com/projects/462827756040158209) for the base project and create a copy for yourself.
 <br/><br/>
-
-## The mini projects are:
-- Example 1 - Blink an LED 
-- Example 2 - Control an LED with a button
-- Example 3 - Using a potentiometer
-- Example 4 - Using a HC-SR04 Range finder 
-- Example 5 - DHT11 humidity and temperature measurement
-- Example 6 - Connecting to Wi-Fi and webscraping
-- Example 7 - Connecting to an MQTT Broker to send messages
-- Example 8 - Combines all previous examples into 1 program
-
-## The Major Project - The Demo Box
-The Demo box code is my personal development for testing out new features to add to the above examples list and demonstrating new features.
 
 
 ## Integrations
