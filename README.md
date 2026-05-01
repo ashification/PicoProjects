@@ -8,15 +8,19 @@ If you do not have access to any of the hardware please refer to the section bel
 ### Equipment list
 There are a number of items you will need to complete these exercises.
 * 1x Breadboard
-    * Also referred to a protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering#:~:text=Soldering%20(US%3A%20%2F%CB%88s,a%20strong%20and%20durable%20joint) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
+    * Also referred to a protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
 * 1x Raspbery pi pico
-    * More details on this micorcontroller below
+    * More details on this microcontroller below
 * 1x LED
     * [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) stands for Light Emitting Diode. These are small handy lights that always add a bit of pizaz to any electronics project. You will need 1 but can get creative with examples showing the use of up to 4 differnet colours
 * 1x 220Ω resistor
-    * A [resistor](https://en.wikipedia.org/wiki/Resistor#:~:text=A%20resistor%20is%20a%20passive,transmission%20lines%2C%20among%20other%20uses.) restricts the flow of current and helps us to control how much goes to a component/circuit
+    * A [resistor](https://en.wikipedia.org/wiki/Resistor) restricts the flow of current and helps us to control how much goes to a component/circuit. You will need 1 of these resistors for each LED you plan to use
+* 1x Button
+    * The button used is a simple electronics button. Again you only need 1 but the examples will show how to use up to 2
 * 1x Potentiometer
-    * A [Potentiometer](https://en.wikipedia.org/wiki/Potentiometer) is a form of variable resistor that you can control the value of by turning it up or down (like the volume on a speaker)
+    * A [Potentiometer](https://en.wikipedia.org/wiki/Potentiometer) is a form of variable resistor that you can control the value of by turning it up or down (like the volume on a speaker). You will need 1 of these but the project shows how you can incorporate upto 3.
+* 1x DHT11
+    * The DHT11 is a humidity and temperature sensor 
 <br/>
 
 ![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
