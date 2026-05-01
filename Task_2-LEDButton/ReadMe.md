@@ -11,7 +11,7 @@ Take your previous circuit from task 1 and add your 2 buttons to the board like 
 ## Wokwi
 For Wokwi you will need to build your board and add your components. For each section the full soloution will be provided (python code and JSON for diagram) both in the repository here as well as a working woki project.
 Do try it yourself first and go to the examples as references if you get stuck  
-- [Task 1 JSON code for Wokwi Diagram ](https://github.com/ashification/PicoProjects/blob/main/Task_2-LEDButton/wokwi_task2_diagram.json)
+- [Task 2 JSON code for Wokwi Diagram ](https://github.com/ashification/PicoProjects/blob/main/Task_2-LEDButton/wokwi_task2_diagram.json)
 - [Task 2 Wokwi Full Soloution](https://wokwi.com/projects/462838825376140289)
 
 <br/><br/> 
