@@ -1,14 +1,36 @@
 # PicoProjects
 
 This repository serves as examples for code to be used in Raspberry Pi Pico projects.
+## Hardware
+If you do not have access to any of the hardware please refer to the section below regarding the Wokwi simulator
+<br/>
 
-## Raspberry Pi Pico Microcontroller
+### Equipment list
+There are a number of items you will need to complete these exercises.
+* 1x Breadboard
+    * Also referred to a protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering#:~:text=Soldering%20(US%3A%20%2F%CB%88s,a%20strong%20and%20durable%20joint) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
+* 1x Raspbery pi pico
+    * More details on this micorcontroller below
+* 1x LED
+    * [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) stands for Light Emitting Diode. These are small handy lights that always add a bit of pizaz to any electronics project. You will need 1 but can get creative with examples showing the use of up to 4 differnet colours
+* 1x 220Ω resistor
+    * A [resistor](https://en.wikipedia.org/wiki/Resistor#:~:text=A%20resistor%20is%20a%20passive,transmission%20lines%2C%20among%20other%20uses.) restricts the flow of current and helps us to control how much goes to a component/circuit
+* 1x Potentiometer
+    * A [Potentiometer](https://en.wikipedia.org/wiki/Potentiometer) is a form of variable resistor that you can control the value of by turning it up or down (like the volume on a speaker)
+<br/>
+
+![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
+<br/><br/>
+
+### Raspberry Pi Pico Microcontroller
 The Raspberry Pi Pico is a micro controller produced by Raspberry Pi. <br/>
 You can read more specific details about the device  here: [RPI Pico Series Official Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) <br/>
 For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated<br/><br/>
 Below is the Pin Out Diagram for the model used<br/>
 ![Pin Out](https://github.com/ashification/PicoProjects/blob/main/pico-2-pinout.jpg) 
 <br/><br/>
+
+
 
 ## Wokwi Simulator 
 If you do not have access to a Pico, the components or have the ability to install and run the MicropythonIDE listed you can use Wokwi.com.
