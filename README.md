@@ -7,10 +7,8 @@ If you do not have access to any of the hardware please refer to the section bel
 
 ### Equipment list
 There are a number of items you will need to complete these exercises.
-* 1x Breadboard
-    * Also referred to a protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
-* Jumper Cables
-    *  [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, like the breadboard, allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
+* 1x [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+    * Also referred to as protoboards, devboards etc these are boards that require no [soldering](https://en.wikipedia.org/wiki/Soldering) and allow for quick and easy building of circuits (kinda like an electronic lego base plate)
 * 1x Raspbery pi pico
     * More details on this microcontroller below
 * 1x LED
@@ -23,9 +21,23 @@ There are a number of items you will need to complete these exercises.
     * A [Potentiometer](https://en.wikipedia.org/wiki/Potentiometer) is a form of variable resistor that you can control the value of by turning it up or down (like the volume on a speaker). You will need 1 of these but the project shows how you can incorporate upto 3.
 * 1x DHT11
     * The DHT11 is a humidity and temperature sensor that is used commonnly in arduino projects
+* 1x Range Finder
+    * ihih
+ 
+* Jumper Cables
+    *  [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, like the breadboard, allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
+ 
+    *  Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
 <br/>
 
 ![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
+<br/>
+
+### Jumper Cables
+*  [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, like the breadboard, allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
+*  ![Fritzing Images of jumper cables](https://github.com/ashification/PicoProjects/blob/main/jumper%20cables.jpg)
+*  Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
+
 <br/><br/>
 
 ### Raspberry Pi Pico Microcontroller
