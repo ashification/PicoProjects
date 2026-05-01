@@ -1,20 +1,21 @@
 # PicoProjects
 
 This repository serves as examples for code to be used in Raspberry Pi Pico projects.
-## Raspberry Pi Pico
+
+## Raspberry Pi Pico Microcontroller
 The Raspberry Pi Pico is a micro controller produced by Raspberry Pi. <br/>
 You can read more specific details about the device  here: [RPI Pico Series Official Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) <br/>
 For versioning and compatability please note this was all developed on and for MicroPython v1.25.0 on 2025-04-15; Raspberry Pi Pico 2 W with RP2350 unless otherwise stated<br/><br/>
 Below is the Pin Out Diagram for the model used<br/>
 ![Pin Out](https://github.com/ashification/PicoProjects/blob/main/pico-2-pinout.jpg) <br/><br/>
 
-
-
-
+## Wokwi Simulator 
+If you do not have access to a Pico, the components or have the ability to install and run the MicropythonIDE listed you can use Woki.com a simulation website for the hardware aspects.
+There will be examples for Woki in each of the mini projects
 
 
 ## The mini projects are:
-- Example 1 - Blink an LED
+- Example 1 - Blink an LED 
 - Example 2 - Control an LED with a button
 - Example 3 - Using a potentiometer
 - Example 4 - Using a HC-SR04 Range finder 
