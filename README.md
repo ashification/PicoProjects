@@ -23,11 +23,11 @@ There are a number of items you will need to complete these exercises.
     * The DHT11 is a humidity and temperature sensor that is used commonnly in arduino projects
 * 1x Range Finder
     * ihih
+
+### Jumper Cables
+  When building the circuit while the breadboard can facilitate most of the connections you will need to use some wires. You can use any electronics wire however for projects like this I like to use [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, as like the breadboard, these allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
  
-* Jumper Cables
-    *  [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, like the breadboard, allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
- 
-    *  Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
+* Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
 <br/>
 
 ![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
