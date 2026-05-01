@@ -24,8 +24,7 @@ There are a number of items you will need to complete these exercises.
 * 1x Range Finder
     * ihih
 
-### Jumper Cables
-  When building the circuit while the breadboard can facilitate most of the connections you will need to use some wires. You can use any electronics wire however for projects like this I like to use [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, as like the breadboard, these allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
+
  
 * Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
 <br/>
@@ -34,8 +33,9 @@ There are a number of items you will need to complete these exercises.
 <br/>
 
 ### Jumper Cables
-*  [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, like the breadboard, allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
-*  ![Fritzing Images of jumper cables](https://github.com/ashification/PicoProjects/blob/main/jumper%20cables.jpg)
+  When building the circuit while the breadboard can facilitate most of the connections you will need to use some wires. You can use any electronics wire however for projects like this I like to use [Jumper cables](https://en.wikipedia.org/wiki/Jump_wire), or jumper wire, as like the breadboard, these allow for ease of connection without soldering. there are 3 types Male to male (M2M), Female to Female (F2F) and Female to Male (F2M). For this project we will primarily need M2M if youre keeping everything on the board but feel free to use various combinations if youre mounting components/build into project box.
+<br/>
+![Fritzing Images of jumper cables](https://github.com/ashification/PicoProjects/blob/main/jumper%20cables.jpg)
 *  Image taken from [here](https://pmdway.com/cdn/shop/products/dual-row-dupont-jumper-cable-pmdway-1_781x596.jpg?v=1623051855)
 
 <br/><br/>
