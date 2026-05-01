@@ -45,13 +45,14 @@ There are a number of items you will need to complete these exercises.
 * 1x Potentiometer
     * A [Potentiometer](https://en.wikipedia.org/wiki/Potentiometer) is a form of variable resistor that you can control the value of by turning it up or down (like the volume on a speaker). You will need 1 of these but the project shows how you can incorporate upto 3.
 * 1x DHT11
-    * The DHT11 is a humidity and temperature sensor that is used commonnly in arduino projects
+    * The DHT11 is a humidity and temperature sensor that is commmonly used in arduino projects
 * 1x Range Finder
     * The Range finder we are using is a HC-SR04 a super common bit of kit used for detecting distance or presence
 
 
 
 <br/>
+
 ![Fritzing Images of Hardware](https://github.com/ashification/PicoProjects/blob/main/Equipment%20list%20fritzing%20image.png)
 <br/>
 
