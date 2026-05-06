@@ -4,7 +4,7 @@ For this task you will need the DHT11 from your pack along with the breadboard a
 ![Parts Requires](https://github.com/ashification/PicoProjects/blob/main/Task_5-HumidityTemp/task5temphumidityequipment.png)
 <br/> <br/> 
 
-You can either start fresh or take your previous circuit from task 3 and add your range finder to the board like so:
+You can either start fresh or take your previous circuit from task 4 and add your range finder to the board like so:
 ![Diagram for breadboard assembly](https://github.com/ashification/PicoProjects/blob/main/Task_5-HumidityTemp/task5temphumiditycct.png)
 <br/><br/> 
 
