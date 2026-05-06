@@ -33,7 +33,7 @@ red_varistor = Pot(27) # Connected to pin A1 (GP_27)
 white_varistor = Pot(26) # Connected to pin A1 (GP_27)
 
 #Humidity & Temperature Sensor
-dhtpin = machine.Pin(17)
+dhtpin = machine.Pin(16)
 
 #Range Finder Sensor
 trigger = Pin(12, Pin.OUT)
