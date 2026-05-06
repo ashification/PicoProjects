@@ -2,7 +2,7 @@
 ## Hardware
 For this task you will need 2 LEDs and 2 Butttons from your pack along with the breadboard and pico.
 ![Parts Requires](https://github.com/ashification/PicoProjects/blob/main/Task_7-MQTT_Connectivity/task7_mqttequipment.png)
-<br/> <br/> 
+<br/> <br/>
 
 You can either start fresh or take your previous circuit and continue to add to the board like so:
 ![Diagram for breadboard assembly](https://github.com/ashification/PicoProjects/blob/main/Task_7-MQTT_Connectivity/task7_mqttcct.png)
